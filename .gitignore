@@ -2,5 +2,6 @@
 .classpath
 WebRoot/img
 WebRoot/WEB-INF
+!WebRoot/WEB-INF/web.xml
 .project
 .tern-project

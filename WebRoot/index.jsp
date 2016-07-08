@@ -22,7 +22,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <frameset rows="20%,*">
      <frame name="topFrame" scrolling="no" noresize="noresize" width="20%" src="top.jsp"><!-- 设置顶部大小及内容 -->
      <frameset cols="20%,*">
-         <frame name="leftFrame" scrolling="no" noresize="noresize" src="lefFrame.jsp"><!-- 左下部分 -->
+         <frame name="leftFrame" scrolling="no" noresize="noresize" src="leftFrame.jsp"><!-- 左下部分 -->
          <frame name="mainFrame" scrolling="yes" src="pagination.jsp">
      </frameset>
   </frameset>
