@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=gb2312"%>
+<%@ page contentType="text/html;charset=utf-8"%>
 <%--  <%@ page import="java.util.*,wyf.hxl.DB"%>
 <jsp:useBean id="handlePage" class="wyf.hxl.PaginationBean" scope="session"/> --%>
 <html>
@@ -9,7 +9,7 @@
 
  <table width="100%" border="0">
    <tr height="74"><td align="center" colspan="6"> 
-    <h1>欢迎来到远洋网络购物广场</h1>
+    <h1>娆㈣繋鏉ュ埌杩滄磱缃戠粶璐墿骞垮満</h1>
      </td></tr><tr>
     <td align="right">
      <a href="CustomerServlet?action=quanbuxinxi" target="mainFrame"><img border="0" id="zy" src="img/top/zy1.gif" 
